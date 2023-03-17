@@ -4,7 +4,8 @@
       sim, professor, módulos, aulas.
 
 --> Quais são os principais campos e tipos? 
-      cursos, módulos, aulas, turmas, professores, alunos. 
+      campos: cursos, módulos, aulas, turmas, professores, alunos.
+      tipos: var, char, int. 
 
 --> Como essas entidades estão relacionadas? 
       cursos-módulos (1, n)
